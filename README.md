@@ -1,8 +1,8 @@
 # 청각장애인 보행 보조기구 
 
-##**- 진행 기간 : 2017.05.01 ~ 2017.05.26 (부산대학교 기계공학부 종합실습 캡스톤 프로젝트)**   
-##**- 프로젝트 내용 : 청각장애인 보행 보조기구**   
-##**- Source Code : _2mic, _2mo, Bluetooth, Bluetooth2, Final, test INO 파일 참조**
+**- 진행 기간 : 2017.05.01 ~ 2017.05.26 (부산대학교 기계공학부 종합실습 캡스톤 프로젝트)**   
+**- 프로젝트 내용 : 청각 장애인들에게 위험을 알려주어 사고를 미연에 방지하며, 기존의 보조 기기의 문제점을 해결한다.**   
+**- Source Code : _2mic, _2mo, Bluetooth, Bluetooth2, Final, test INO 파일 참조**
 
 ![11](https://user-images.githubusercontent.com/47058935/201487619-5b3704c5-9c0f-435e-9fd9-2cb28cc16d90.PNG)
 ![22](https://user-images.githubusercontent.com/47058935/201487623-7e6efaa6-e690-4125-b2e8-6990ef0eaadf.PNG)
